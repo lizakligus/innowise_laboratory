@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8acb678-4fec-45a7-84b4-d22cdbfd6560" name="Changes" comment="Add main logic with colored output">
-      <change afterPath="$PROJECT_DIR$/lecture_2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture_2/main.py" afterDir="false" />
+    <list default="true" id="a8acb678-4fec-45a7-84b4-d22cdbfd6560" name="Changes" comment="Add lecture_2 with main.py and gitignore">
+      <change afterPath="$PROJECT_DIR$/lecture_3/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "lecture3",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
